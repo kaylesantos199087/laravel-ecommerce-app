@@ -141,7 +141,7 @@ php artisan storage:link
 ```
 
 ## API Docs
-<img src="public/images/Laravel-eCommerce-APP.png" alt="Preview" width="75%"/>
+<img src="public/images/LaraCommerce-API.png" alt="Preview" width="75%"/>
 </br>
 <p style="font-weight: bold;">
 Complete REST API Documentation can be found <a href="https://documenter.getpostman.com/view/25234064/2s93JnUSRS">here</a>

@@ -1,5 +1,5 @@
 <h1 align="center">
-LaraCommerce REST API
+Laravel-eCommerce REST API
 </h1>
 
 <h5 align="center">
@@ -7,8 +7,8 @@ REST API for E-Commerce platform with admin panel integration.
 </h5>
 
 <p align="center">
-    <a href="https://github.com/muhammadhabibfery/laracommerce-api/actions/workflows/ci.yml">
-    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/muhammadhabibfery/laracommerce-api/ci.yml?logo=github">
+    <a href="https://github.com/kaylesantos199087/laravel-ecommerce-app/actions/workflows/ci.yml">
+    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/kaylesantos199087/laravel-ecommerce-app/ci.yml?logo=github">
     <a href="https://www.php.net">
         <img src="https://img.shields.io/badge/php-%3E%3D8.1-%23777BB4" />
     </a>
@@ -55,7 +55,7 @@ REST API for E-Commerce platform with admin panel integration.
 Clone repo
 
 ```
-git clone https://github.com/muhammadhabibfery/laracommerce-api.git
+git clone https://github.com//kaylesantos199087/laravel-ecommerce-app.git
 ```
 
 Install Composer
@@ -141,7 +141,7 @@ php artisan storage:link
 ```
 
 ## API Docs
-<img src="public/images/LaraCommerce-API.png" alt="Preview" width="75%"/>
+<img src="public/images/Laravel-eCommerce-APP.png" alt="Preview" width="75%"/>
 </br>
 <p style="font-weight: bold;">
 Complete REST API Documentation can be found <a href="https://documenter.getpostman.com/view/25234064/2s93JnUSRS">here</a>
@@ -150,8 +150,8 @@ Complete REST API Documentation can be found <a href="https://documenter.getpost
 
 ## License
 
-> Copyright (C) 2023 Muhammad Habib Fery.  
-**[⬆ back to top](#laracommerce-rest-api)**
+> Copyright (C) 2023 Kayle Santos.
+**[⬆ back to top](#laravel-ecommerce-rest-api)**
 
 [Admin Panel Features]:#admin-panel-features
 [Requirements]:#requirements
